@@ -6,3 +6,4 @@ For troubleshooting common hackintosh boot errors and problems That most of peop
 
 ## Troubleshoot links
 [ Kernel Panic ](https://github.com/gytch001/hackintosh-troubleshoot/blob/main/kernelpanic.md)
+[ Black Screen ]
